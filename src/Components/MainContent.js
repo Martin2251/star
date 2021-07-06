@@ -75,7 +75,7 @@ function MainContent() {
         ))}
       </div>
       <div className="btn-place">
-        <button className="btn" onClick={getMore} data-cy="btn-load-more">
+        <button className="btn" onClick={getMore} data-cy="load-more">
           Load More
         </button>
       </div>
